@@ -1,3 +1,4 @@
 SQLAlchemy==1.4.32
+psycopg2==2.9.3
 python-telegram-bot==13.11
 requests==2.27.1
